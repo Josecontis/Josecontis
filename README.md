@@ -7,10 +7,6 @@
 - 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
 - ⚡ Fun fact: The key to artificial intelligence has always been the representation.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/5jw1zzcYFivmuJK52JrnMK?si=lyaqlr2jSGm7ibQ-qnBweQ)
-
 ### Connect with me:
 
 [<img align="left" alt="JoseContisGit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://github.com/Josecontis)
@@ -21,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="visual studio code" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visual-studio-code/visual-studio-code.png">
+<img align="left" alt="visual studio code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="HTML 5" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img align="left" alt="CSS 3" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -41,8 +37,9 @@
 <br>
 <br>
 
-[![Jose Contis's github stats](https://github-readme-stats.vercel.app/api?username=josecontis&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Josecontis)
+### Now Playing 🎧
 
----
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0T0YEoyMS1ZrKiP8Ry1jGp?si=M5OdhFlrSx23VQvD-x_JLQ)
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecontis&layout=demo&theme=react)](https://github.com/Josecontis/github-readme-stats)
