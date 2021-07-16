@@ -1,6 +1,7 @@
 ### Hello there, I'm Jose <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
+<img alt="Night Coding" height="150em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### I'm a programmer, ML Enthusiast and Developer!
 
@@ -11,7 +12,7 @@
 
 ---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 <h3 align="center">🛠 &nbsp; Languages and Tools</h3>
 
@@ -42,8 +43,10 @@
 
 <h3 align="center">⚙️ &nbsp;GitHub Analytics</h3>
 
-![Jose R github stats](https://github-readme-stats.vercel.app/api?username=josecontis&theme=react&show_icons=true&count_private=true)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecontis&theme=react)](https://github.com/Josecontis/github-readme-stats)
+<a href="https://github.com/josecontis">
+  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josecontis&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josecontis&layout=compact&langs_count=8&theme=react"/>
+</a>
 
 ---
 
