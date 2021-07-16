@@ -1,45 +1,58 @@
-### Hello there, I'm Jose 👋
+### Hello there, I'm Jose <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
-## I'm a programmer, ML Enthusiast and Developer!
+---
+
+### I'm a programmer, ML Enthusiast and Developer!
 
 - 🌱 I'm currently learning everything
 - 💯 2021 Goals: Survive like in 2020
 - 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
 - ⚡ Fun fact: The key to artificial intelligence has always been the representation.
 
-### Connect with me:
+---
 
-[<img align="left" alt="JoseContisGit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://github.com/Josecontis)
-[<img align="left" alt="JoseContisLI | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/giuseppe-conticchio-01a414159/)
-[<img align="left" alt="JoseContisFb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg">](https://www.facebook.com/giuseppe.conticchio.5)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<br />
+<h3 align="center">🛠 &nbsp; Languages and Tools</h3>
 
-### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<img align="left" alt="visual studio code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left" alt="HTML 5" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-<img align="left" alt="CSS 3" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="left" alt="Redux" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="left" alt="Node JS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="left" alt="Cpp" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="left" alt="C" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+---
 
+<h3 align="center">⚙️ &nbsp;GitHub Analytics</h3>
+
+![Jose R github stats](https://github-readme-stats.vercel.app/api?username=josecontis&theme=react&show_icons=true&count_private=true)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecontis&theme=react)](https://github.com/Josecontis/github-readme-stats)
+
+---
+
+<h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
 <br>
-<br>
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/0T0YEoyMS1ZrKiP8Ry1jGp?si=M5OdhFlrSx23VQvD-x_JLQ)
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecontis&layout=demo&theme=react)](https://github.com/Josecontis/github-readme-stats)
+<a href="https://www.facebook.com/giuseppe.conticchio.5"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/giuseppe-conticchio-01a414159/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:peppeco98@gmail.com?subject=Ciao%20Jose"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+ <a href="https://github.com/Josecontis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
+<a href="https://prsnl-website.herokuapp.com/#/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+</p>
