@@ -7,6 +7,7 @@
 - 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
 - ⚡ Fun fact: The key to artificial intelligence has always been the representation.
 
+
 ### Connect with me:
 
 [<img align="left" alt="JoseContisGit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://github.com/Josecontis)
@@ -33,8 +34,8 @@
 <br>
 <br>
 
-[![Jose Contis's github stats](https://github-readme-stats.vercel.app/api?username=josecontis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Josecontis)
+[![Jose Contis's github stats](https://github-readme-stats.vercel.app/api?username=josecontis&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Josecontis)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecontis&layout=compact)](https://github.com/Josecontis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecontis&layout=demo&theme=react)](https://github.com/Josecontis/github-readme-stats)
