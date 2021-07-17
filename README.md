@@ -1,7 +1,7 @@
-### Hello there, I'm Jose <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hello there, I'm Jose <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="40px" />
 
 ---
-<img alt="Night Coding" height="150em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### I'm a programmer, ML Enthusiast and Developer!
 
@@ -12,7 +12,7 @@
 
 ---
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <h3 align="center">🛠 &nbsp; Languages and Tools</h3>
 
@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="center">⚙️ &nbsp;GitHub Analytics</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Analytics</h3>
 
 <a href="https://github.com/josecontis">
   <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josecontis&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -59,3 +59,12 @@
  <a href="https://github.com/Josecontis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
 <a href="https://prsnl-website.herokuapp.com/#/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
+
+---
+
+<a href="https://stackoverflow.com/users/15158756/jose-contis">
+    <img src="https://stackoverflow.com/users/flair/15158756.png" width="208" height="58" alt="profile for jose_contis on Stack Exchange, a network of free, community-driven Q&amp;A sites" align="right">
+</a>
+  
+Last Edited on: 17/07/2021
+ 
