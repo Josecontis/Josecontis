@@ -59,12 +59,9 @@
  <a href="https://github.com/Josecontis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
 <a href="https://prsnl-website.herokuapp.com/#/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
+<a href="https://stackoverflow.com/users/story/15158756"><img src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark" height="200"></a>
 
 ---
-
-<a href="https://stackoverflow.com/users/15158756/jose-contis">
-    <img src="https://stackoverflow.com/users/flair/15158756.png" width="208" height="58" alt="profile for jose_contis on Stack Exchange, a network of free, community-driven Q&amp;A sites" align="right">
-</a>
   
 Last Edited on: 17/07/2021
  
