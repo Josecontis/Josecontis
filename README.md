@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/AdobeStock_256229414.jpg" height="175px"/></a>
 
 <h3>Hello there, I'm Jose <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="40px" /><a href="https://stackoverflow.com/users/story/15158756"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50"></a></h3>
 <h6>I'm a programmer, ML Enthusiast and Developer!</h6>
@@ -8,7 +8,7 @@
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h3 align="center">🛠 &nbsp; About me</h3>
+<h3 align="center">📝 &nbsp; About me</h3>
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies. 
@@ -24,7 +24,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 ---
 <img align="right" alt="GIF" src="https://github.com/josecontis/josecontis/blob/main/techstack.gif" width="180px" />
 
-<h3 align="center">🛠 &nbsp; Languages and Tools</h3>
+<h3 align="center">⚙️ &nbsp; Languages and Tools</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -99,7 +99,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 ---
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Josecontis?tab=repositories)!
-Last Edited on: 17/07/2021
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
@@ -109,3 +109,4 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   · <a href="https://drive.google.com/file/d/18pgFVc82IenHd481XwpNACaR25ZQPJ7m/view?usp=sharing">Resume</a>
  · 
 <br>
+Last Edited on: 18/07/2021
