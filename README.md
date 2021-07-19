@@ -1,15 +1,14 @@
 
-<a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/AdobeStock_256229414.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/super.gif"/></a>
 
 <h3>Hello there, I'm Jose <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="40px" /><a href="https://stackoverflow.com/users/story/15158756"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50"></a></h3>
-<h6>I'm a programmer, ML Enthusiast and Developer!</h6>
+<h5>I'm a programmer, ML Enthusiast and Developer!</h5>
 
 ---
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3 align="center">📝&nbsp; About me</h3>
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies. 
 <br></br>
@@ -29,18 +28,19 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <h3 align="center">⚙️&nbsp; Languages and Tools</h3>
 
-![Python](https://img.shields.io/badge/-Python-256C8B?style=for-the-badge&logo=python&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-256C8B?style=for-the-badge&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-256C8B?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-256C8B?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-256C8B?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-256C8B?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-256C8B?style=for-the-badge&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-256C8B?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-256C8B?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-256C8B?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-256C8B?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-23b5cc?style=for-the-badge&logo=github)&nbsp;
+![Python](https://img.shields.io/badge/-Python-23b5cc?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-23b5cc?style=for-the-badge&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Typescript-23b5cc?style=for-the-badge&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-23b5cc?style=for-the-badge&logo=Java)&nbsp;
+![C](https://img.shields.io/badge/-C-23b5cc?style=for-the-badge&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-23b5cc?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-23b5cc?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-23b5cc?style=for-the-badge&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-23b5cc?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-23b5cc?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-23b5cc?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-23b5cc?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-23b5cc?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-23b5cc?style=for-the-badge&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23b5cc?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-23b5cc?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
@@ -57,7 +57,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <h3 align="center">✨&nbsp;My Projects</h3>
   
 <a href="https://github.com/Josecontis/PersonalWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react" />
 </a>
 
 <a href="https://github.com/Josecontis/House-Price-Prediction">
@@ -65,7 +65,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 </a>
 <br></br>
 <a href="https://github.com/Josecontis/opinion_target_extraction">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=opinion_target_extraction&theme=react" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=opinion_target_extraction&theme=react" />
 </a>
 
 <a href="https://github.com/Josecontis/Quality-Threshold-Algoritm">
@@ -73,7 +73,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 </a>
 <br></br>
 <a href="https://github.com/Josecontis/e-commerce-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react" />
 </a>
 
 <a href="https://github.com/Josecontis/Data-Structures">
