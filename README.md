@@ -13,6 +13,7 @@ I have done Internship as a FullStack Developer as well as Website Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies. 
 <br></br>
 
+
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
 * 🎓 I'm a Computer Science student (graduating in March 2021)
@@ -20,38 +21,39 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 * 💯 2021 Goals: Survive like in 2020
 * 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
 * ⚡ Fun fact: The key to artificial intelligence has always been the representation.
-* 🎢 ![](https://komarev.com/ghpvc/?username=josecontis&color=006c85&line_height=30&style=flat-square&label=PROFILE+VIEWS)
+* 🎢 ![](https://komarev.com/ghpvc/?username=josecontis&color=11b1d1&line_height=30&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/josecontis/josecontis/blob/main/techstack.gif" width="180px" />
+<img align="right" alt="GIF" src="https://github.com/josecontis/josecontis/blob/main/techstack.gif" width="190px" />
 
 <h3 align="center">⚙️&nbsp; Languages and Tools</h3>
 
-![Python](https://img.shields.io/badge/-Python-006c85?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-006c85?style=for-the-badge&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Typescript-006c85?style=for-the-badge&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-006c85?style=for-the-badge&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C-006c85?style=for-the-badge&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-006c85?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-006c85?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-006c85?style=for-the-badge&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-006c85?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-006c85?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-006c85?style=for-the-badge&logo=css3)&nbsp;
-![Git](https://img.shields.io/badge/-Git-006c85?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-006c85?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-006c85?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-006c85?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-006c85?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-006c85?style=for-the-badge&logo=heroku&logoColor=2C2255)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express-006c85?style=for-the-badge&logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-006c85?style=for-the-badge&logo=mongodb)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-006c85?style=for-the-badge&logo=Firebase)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-006c85?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Pycharm](https://img.shields.io/badge/pycharm-006c85?style=for-the-badge&logo=pycharm&logoColor=green)&nbsp;
-![SublimeText](https://img.shields.io/badge/sublime_text-22272e.svg?&style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-22272e?style=for-the-badge&logo=Postman&logoColor=orange)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1a1c24?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1c24?style=for-the-badge&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Typescript-1a1c24?style=for-the-badge&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-1a1c24?style=for-the-badge&logo=Java)&nbsp;
+![C](https://img.shields.io/badge/-C-1a1c24?style=for-the-badge&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-1a1c24?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-1a1c24?style=for-the-badge&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-1a1c24?style=for-the-badge&logo=redux&logoColor=563D7C)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-1a1c24?style=for-the-badge&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a1c24?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-1a1c24?style=for-the-badge&logo=html5&logoColor=02b5d1)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1a1c24?style=for-the-badge&logo=css3&logoColor=d13202)&nbsp;
+![Git](https://img.shields.io/badge/-Git-1a1c24?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-1a1c24?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-1a1c24?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1a1c24?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-1a1c24?style=for-the-badge&logo=eclipse-ide&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-1a1c24?style=for-the-badge&logo=heroku&logoColor=563D7C)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-1a1c24?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1c24?style=for-the-badge&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-1a1c24?style=for-the-badge&logo=Firebase)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-1a1c24?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/pycharm-1a1c24?style=for-the-badge&logo=pycharm&logoColor=green)&nbsp;
+![SublimeText](https://img.shields.io/badge/sublime_text-1a1c24?&style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-1a1c24?style=for-the-badge&logo=Postman&logoColor=orange)&nbsp;
 
 ---
 
@@ -108,8 +110,9 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 
 <p >
-Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people.
 <br><br>
+  <br><br><br><br><br><br>
   · <a href="https://drive.google.com/file/d/1VUbBhdVHOdaDLJ0BjCdP5qjuBI9BIcAc/view?usp=sharing">Resume</a> · 
 <br>
-Last Edited on: 18/07/2021
+Last Edited on: 20/07/2021
