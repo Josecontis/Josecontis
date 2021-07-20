@@ -20,7 +20,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 * 💯 2021 Goals: Survive like in 2020
 * 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
 * ⚡ Fun fact: The key to artificial intelligence has always been the representation.
-* 🎢 ![](https://komarev.com/ghpvc/?username=josecontis&color=blue&line_height=30&style=flat-square&label=PROFILE+VIEWS)
+* 🎢 ![](https://komarev.com/ghpvc/?username=josecontis&color=006c85&line_height=30&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
@@ -28,22 +28,30 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <h3 align="center">⚙️&nbsp; Languages and Tools</h3>
 
-![Python](https://img.shields.io/badge/-Python-23b5cc?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-23b5cc?style=for-the-badge&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Typescript-23b5cc?style=for-the-badge&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-23b5cc?style=for-the-badge&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C-23b5cc?style=for-the-badge&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-23b5cc?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-23b5cc?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-23b5cc?style=for-the-badge&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-23b5cc?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-23b5cc?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-23b5cc?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-23b5cc?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-23b5cc?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-23b5cc?style=for-the-badge&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23b5cc?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-23b5cc?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
+![Python](https://img.shields.io/badge/-Python-006c85?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-006c85?style=for-the-badge&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Typescript-006c85?style=for-the-badge&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-006c85?style=for-the-badge&logo=Java)&nbsp;
+![C](https://img.shields.io/badge/-C-006c85?style=for-the-badge&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-006c85?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-006c85?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-006c85?style=for-the-badge&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-006c85?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-006c85?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-006c85?style=for-the-badge&logo=css3)&nbsp;
+![Git](https://img.shields.io/badge/-Git-006c85?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-006c85?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-006c85?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-006c85?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-006c85?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-006c85?style=for-the-badge&logo=heroku&logoColor=2C2255)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-006c85?style=for-the-badge&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-006c85?style=for-the-badge&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-006c85?style=for-the-badge&logo=Firebase)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-006c85?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/pycharm-006c85?style=for-the-badge&logo=pycharm&logoColor=green)&nbsp;
+![SublimeText](https://img.shields.io/badge/sublime_text-22272e.svg?&style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-22272e?style=for-the-badge&logo=Postman&logoColor=orange)&nbsp;
 
 ---
 
