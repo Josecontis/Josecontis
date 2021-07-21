@@ -21,11 +21,12 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 * 💯 2021 Goals: Survive like in 2020
 * 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
 * ⚡ Fun fact: The key to artificial intelligence has always been the representation.
-* 🎢 ![](https://komarev.com/ghpvc/?username=josecontis&color=11b1d1&line_height=30&style=flat-square&label=PROFILE+VIEWS)
+
+![](https://komarev.com/ghpvc/?username=josecontis&style=flat&label=PROFILE+VIEWS&color=1a1c24)
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/josecontis/josecontis/blob/main/techstack.gif" width="190px" />
+<img align="right" alt="GIF" src="https://github.com/josecontis/josecontis/blob/main/techstack.gif" width="160px" />
 
 <h3 align="center">⚙️&nbsp; Languages and Tools</h3>
 
@@ -39,13 +40,13 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 ![Redux](https://img.shields.io/badge/-Redux-1a1c24?style=for-the-badge&logo=redux&logoColor=563D7C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-1a1c24?style=for-the-badge&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a1c24?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-1a1c24?style=for-the-badge&logo=html5&logoColor=02b5d1)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1a1c24?style=for-the-badge&logo=css3&logoColor=d13202)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-1a1c24?style=for-the-badge&logo=html5&logoColor=02b5d1)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1a1c24?style=for-the-badge&logo=css3&logoColor=d13202)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1a1c24?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1a1c24?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-1a1c24?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1a1c24?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-1a1c24?style=for-the-badge&logo=eclipse-ide&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-1a1c24?style=for-the-badge&logo=eclipse-ide&logoColor=563D7C)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-1a1c24?style=for-the-badge&logo=heroku&logoColor=563D7C)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-1a1c24?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1c24?style=for-the-badge&logo=mongodb)&nbsp;
@@ -53,7 +54,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 ![MySQL](https://img.shields.io/badge/MySQL-1a1c24?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/pycharm-1a1c24?style=for-the-badge&logo=pycharm&logoColor=green)&nbsp;
 ![SublimeText](https://img.shields.io/badge/sublime_text-1a1c24?&style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-1a1c24?style=for-the-badge&logo=Postman&logoColor=orange)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-1a1c24?style=for-the-badge&logo=Postman&logoColor=f56042)&nbsp;
 
 ---
 
@@ -109,7 +110,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
-<p >
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people.
 <br><br>
   <br><br><br><br><br><br>
