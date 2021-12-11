@@ -1,6 +1,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/super.gif"/></a>
-<a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
+<a href="#"><img width="30%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
 
 <h3>Hello there, I'm Jose <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="40px" /><a href="https://stackoverflow.com/users/story/15158756"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50"></a></h3>
 <h5>I'm a programmer, ML Enthusiast and Developer!</h5>
