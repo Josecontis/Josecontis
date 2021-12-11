@@ -6,7 +6,7 @@
 
 ---
 
-<a href="#"><img align="right" width=150px height=auto alt="avatar" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
+<a href="#"><img align="right" width=300px height=auto alt="avatar" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
 
 <h3 align="center">📝&nbsp; About me</h3>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
