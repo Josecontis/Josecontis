@@ -6,7 +6,7 @@
 
 ---
 
-<a href="#"><img align="right" width=250px height=auto alt="avatar" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
+<a href="#"><img align="right" width="250px" alt="avatar" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
 
 <h3 align="center">📝&nbsp; About me</h3>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
@@ -18,9 +18,9 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 * 🎨 I'm a self-taught UI designer
 * 🎓 I'm a Computer Science student (graduating in March 2021)
 * 🌱 I'm currently learning everything
-* 💯 2021 Goals: Survive like in 2020
+* 💯 2021 Goals: Worked hard, learned a lot, new hobbies
 * 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
-* ⚡ Fun fact: The key to artificial intelligence has always been the representation.
+* ⚡ Fun fact: Real programmers count from 0.
 
 ![](https://komarev.com/ghpvc/?username=josecontis&style=flat&label=PROFILE+VIEWS&color=1a1c24)
 
@@ -115,4 +115,4 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   <br><br><br><br><br><br>
   · <a href="https://drive.google.com/file/d/1VUbBhdVHOdaDLJ0BjCdP5qjuBI9BIcAc/view?usp=sharing">Resume</a> · 
 <br>
-Last Edited on: 20/07/2021
+Last Edited on: 31/12/2021
