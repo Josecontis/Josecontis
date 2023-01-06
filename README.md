@@ -1,4 +1,3 @@
-
 <a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/super.gif"/></a>
 
 <h3>Hello there, I'm Jose <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="40px" /><a href="https://stackoverflow.com/users/story/15158756"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50"></a></h3>
@@ -23,6 +22,10 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 * ⚡ Fun fact: Real programmers count from 0.
 
 ![](https://komarev.com/ghpvc/?username=josecontis&style=flat&label=PROFILE+VIEWS&color=1a1c24)
+
+
+https://user-images.githubusercontent.com/48212689/211068702-433da6d3-a5bd-4737-9717-fe8085dfbddb.mp4
+
 
 ---
 
@@ -97,6 +100,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <p align="center">
 <br>
 <a href="https://www.facebook.com/giuseppe.conticchio.5"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/giuseppe.conticchio/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/giuseppe-conticchio-01a414159/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:peppeco98@gmail.com?subject=Ciao%20Jose"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://github.com/Josecontis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
@@ -115,4 +119,4 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   <br><br><br><br><br><br>
   · <a href="https://drive.google.com/file/d/1VUbBhdVHOdaDLJ0BjCdP5qjuBI9BIcAc/view?usp=sharing">Resume</a> · 
 <br>
-Last Edited on: 31/12/2021
+Last Edited on: 06/01/2023
