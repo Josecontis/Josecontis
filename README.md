@@ -1,6 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/super.gif"/></a>
 
-<h3>Hello there, I'm Jose <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="40px" /><a href="https://stackoverflow.com/users/story/15158756"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50"></a></h3>
+<a href="https://stackoverflow.com/users/story/15158756"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50"></a>
+<img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="100px" padding="0px" margin="0px" />
+<h3 id="hello-there-im-jose">Hello there, I'm Jose</h3>
 <h5>I'm a programmer, ML Enthusiast and Developer!</h5>
 
 ---
@@ -119,4 +121,4 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   <br><br><br><br><br><br>
   · <a href="https://drive.google.com/file/d/1VUbBhdVHOdaDLJ0BjCdP5qjuBI9BIcAc/view?usp=sharing">Resume</a> · 
 <br>
-Last Edited on: 06/01/2023
+Last Edited on: 26/09/2023
