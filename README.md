@@ -15,11 +15,11 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <br></br>
 
 
-* 💻 I'm a full stack web developer
+* 💻 I'm a full stack developer
 * 🎨 I'm a self-taught UI designer
-* 🎓 I'm a Computer Science student (graduating in March 2021)
-* 🌱 I'm currently learning everything
-* 💯 2021 Goals: Worked hard, learned a lot, new hobbies
+* 🎓 Graduated in Computer Science (March 2021)
+* 🌱 Always learning new technologies and improving my skills
+* 💯 Goals: Work hard, learn a lot, and be assertive
 * 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
 * ⚡ Fun fact: Real programmers count from 0.
 
@@ -116,9 +116,9 @@ https://user-images.githubusercontent.com/48212689/211068702-433da6d3-a5bd-4737-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
-Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people.
+I approach everything I do with dedication and integrity, enjoy leading teams, support others in reaching their goals, and continuously seek innovative ways to enhance people’s lives.
 <br><br>
   <br><br><br><br><br><br>
   · <a href="https://drive.google.com/file/d/1VUbBhdVHOdaDLJ0BjCdP5qjuBI9BIcAc/view?usp=sharing">Resume</a> · 
 <br>
-Last Edited on: 26/09/2023
+Last Edited on: 26/09/2025
