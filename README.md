@@ -10,8 +10,8 @@
 <a href="#"><img align="right" width="30%" alt="avatar" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
 
 <h3 align="center">📝&nbsp; About me</h3>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies. 
+I did an Internship as a FullStack Developer as well as Website Tester.<br/>
+I am interested in learning DS,ML,AI and would 💖 to improve my knowledge in these Technologies. 
 <br></br>
 
 
@@ -116,9 +116,9 @@ https://user-images.githubusercontent.com/48212689/211068702-433da6d3-a5bd-4737-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
-I approach everything I do with dedication and integrity, enjoy leading teams, support others in reaching their goals, and continuously seek innovative ways to enhance people’s lives.
+I approach everything I do with dedication and integrity, enjoy leading teams, support others in reaching their goals, and continuously seek innovative ways to improve people’s lives.
 <br><br>
   <br><br><br><br><br><br>
-  · <a href="https://drive.google.com/file/d/1VUbBhdVHOdaDLJ0BjCdP5qjuBI9BIcAc/view?usp=sharing">Resume</a> · 
+  · <a href="https://drive.google.com/file/d/1lqyWowOpRn-TKHkrHK-em-x2MhJRQaHz/view?usp=sharing">Resume</a> · 
 <br>
-Last Edited on: 26/09/2025
+Last Edited on: 29/09/2025
