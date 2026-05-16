@@ -34,17 +34,41 @@ I enjoy building reliable applications, improving existing systems, and learning
 
 <h3 align="center">⚙️ Languages and Tools</h3>
 
-![Java](https://img.shields.io/badge/-Java-1a1c24?style=for-the-badge&logo=Java)
-![Spring](https://img.shields.io/badge/-SpringBoot-1a1c24?style=for-the-badge&logo=spring)
-![Flutter](https://img.shields.io/badge/-Flutter-1a1c24?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-1a1c24?style=for-the-badge&logo=dart)
-![React](https://img.shields.io/badge/-React-1a1c24?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1c24?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1c24?style=for-the-badge&logo=javascript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1a1c24?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1c24?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-1a1c24?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-1a1c24?style=for-the-badge&logo=docker)
+## 🛠 Skills
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=java,js,ts,dart" alt="Java, JavaScript, TypeScript, Dart" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+
+---
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
+
+---
+
+### **Mobile**
+<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+
+---
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot, Node.js" />
+
+---
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB" />
+
+---
+
+### **DevOps / Tools**
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman" alt="Docker, Git, GitHub, Postman" />
+
+---
+
+### **Work Environment**
+<img src="https://skillicons.dev/icons?i=vscode,eclipse" alt="VSCode, Eclipse" />
 
 ---
 
