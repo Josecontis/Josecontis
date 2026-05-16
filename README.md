@@ -34,41 +34,29 @@ I enjoy building reliable applications, improving existing systems, and learning
 
 <h3 align="center">⚙️ Languages and Tools</h3>
 
-## 🛠 Skills
-
 ### **Languages**
-<img src="https://skillicons.dev/icons?i=java,js,ts,dart" alt="Java, JavaScript, TypeScript, Dart" />
+<img src="https://skillicons.dev/icons?i=dart,js,ts,python,java,c" alt="Dart, JavaScript, TypeScript, Python, Java, C" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
-
----
 
 ### **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
 
----
-
 ### **Mobile**
 <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-
----
 
 ### **Backend**
 <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot, Node.js" />
 
----
-
 ### **Databases**
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB" />
-
----
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=plastic&logo=apachecassandra&logoColor=white" height="48" alt="Cassandra" />
 
 ### **DevOps / Tools**
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman" alt="Docker, Git, GitHub, Postman" />
-
----
+<img src="https://skillicons.dev/icons?i=aws,docker,netlify,vercel,git,github,postman" alt="AWS, Docker, Netlify, Vercel, Git, GitHub, Postman" />
 
 ### **Work Environment**
-<img src="https://skillicons.dev/icons?i=vscode,eclipse" alt="VSCode, Eclipse" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,blender" alt="VSCode, Eclipse, Blender" />
+
 
 ---
 
@@ -125,7 +113,7 @@ I enjoy building reliable applications, improving existing systems, and learning
 <p align="center">
 <a href="https://www.facebook.com/giuseppe.conticchio.5"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.instagram.com/giuseppe.conticchio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/giuseppe-conticchio-01a414159/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/giuseppe-conticchio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:peppeco98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Josecontis"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://personalwebsite5.netlify.app/"><img src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://personalwebsite5.netlify.app/" /></a>
@@ -137,9 +125,8 @@ I enjoy building reliable applications, improving existing systems, and learning
 
 I approach everything I do with dedication and integrity, enjoy supporting others, and continuously seek innovative ways to improve people’s lives.
 
-<br><br>
+<br><br><br><br><br>
 
 · <a href="https://drive.google.com/file/d/1lqyWowOpRn-TKHkrHK-em-x2MhJRQaHz/view?usp=sharing">Resume</a> ·
 
-<br>
-Last Edited on: 29/09/2025
+Last Edited on: 16/05/2026
