@@ -1,77 +1,64 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Josecontis/Josecontis/blob/main/super.gif"/></a>
 
-<a href="https://stackoverflow.com/users/story/15158756"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50"></a>
-<img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="100px" padding="0px" margin="0px" />
+<a href="https://stackoverflow.com/users/story/15158756">
+  <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=15158756&theme=dark&layout=compact" height="50">
+</a>
+
+<img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="100px" />
+
 <h3 id="hello-there-im-jose">Hello there, I'm Jose</h3>
-<h5>I'm a programmer, ML Enthusiast and Developer!</h5>
+<h5>I'm a Software Developer and Full‑Stack Engineer!</h5>
 
 ---
 
 <a href="#"><img align="right" width="30%" alt="avatar" src="https://github.com/Josecontis/Josecontis/blob/main/avatar.png"/></a>
 
-<h3 align="center">📝&nbsp; About me</h3>
-I did an Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to improve my knowledge in these Technologies. 
-<br></br>
+<h3 align="center">📝 About me</h3>
 
+I’m a Software Developer with experience in **backend, full‑stack and mobile development**, working on **IoT and Fleet Management platforms**.  
+I enjoy building reliable applications, improving existing systems, and learning new technologies.
 
-* 💻 I'm a full stack developer
-* 🎨 I'm a self-taught UI designer
-* 🎓 Graduated in Computer Science (March 2021)
-* 🌱 Always learning new technologies and improving my skills
-* 💯 Goals: Work hard, learn a lot, and be assertive
-* 📫 How to reach me: [send an email](mailto:peppeco98@gmail.com)
+<br/>
+
+* 💻 Full‑stack & backend developer (Spring Boot, React, Flutter)
+* 📱 Experience in mobile development with Flutter/Dart
+* 🧠 Interested in IoT, scalable systems, and clean architecture
+* 🎓 BSc in Computer Science (2021)
+* 🌱 Always learning and improving
+* 📫 Contact me: [peppeco98@gmail.com](mailto:peppeco98@gmail.com)
 * ⚡ Fun fact: Real programmers count from 0.
 
 ![](https://komarev.com/ghpvc/?username=josecontis&style=flat&label=PROFILE+VIEWS&color=1a1c24)
 
+---
 
-https://user-images.githubusercontent.com/48212689/211068702-433da6d3-a5bd-4737-9717-fe8085dfbddb.mp4
+<h3 align="center">⚙️ Languages and Tools</h3>
 
+![Java](https://img.shields.io/badge/-Java-1a1c24?style=for-the-badge&logo=Java)
+![Spring](https://img.shields.io/badge/-SpringBoot-1a1c24?style=for-the-badge&logo=spring)
+![Flutter](https://img.shields.io/badge/-Flutter-1a1c24?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-1a1c24?style=for-the-badge&logo=dart)
+![React](https://img.shields.io/badge/-React-1a1c24?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1c24?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1c24?style=for-the-badge&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1c24?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1c24?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-1a1c24?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-1a1c24?style=for-the-badge&logo=docker)
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/josecontis/josecontis/blob/main/techstack.gif" width="160px" />
-
-<h3 align="center">⚙️&nbsp; Languages and Tools</h3>
-
-![Python](https://img.shields.io/badge/-Python-1a1c24?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1c24?style=for-the-badge&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Typescript-1a1c24?style=for-the-badge&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-1a1c24?style=for-the-badge&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C-1a1c24?style=for-the-badge&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-1a1c24?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-1a1c24?style=for-the-badge&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-1a1c24?style=for-the-badge&logo=redux&logoColor=563D7C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-1a1c24?style=for-the-badge&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a1c24?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-1a1c24?style=for-the-badge&logo=html5&logoColor=02b5d1)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1a1c24?style=for-the-badge&logo=css3&logoColor=d13202)&nbsp;
-![Git](https://img.shields.io/badge/-Git-1a1c24?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-1a1c24?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-1a1c24?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1a1c24?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-1a1c24?style=for-the-badge&logo=eclipse-ide&logoColor=563D7C)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-1a1c24?style=for-the-badge&logo=heroku&logoColor=563D7C)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express-1a1c24?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-1a1c24?style=for-the-badge&logo=mongodb)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-1a1c24?style=for-the-badge&logo=Firebase)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-1a1c24?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Pycharm](https://img.shields.io/badge/pycharm-1a1c24?style=for-the-badge&logo=pycharm&logoColor=green)&nbsp;
-![SublimeText](https://img.shields.io/badge/sublime_text-1a1c24?&style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-1a1c24?style=for-the-badge&logo=Postman&logoColor=f56042)&nbsp;
-
----
-
-<h3 align="center">📈&nbsp;GitHub Analytics</h3>
+<h3 align="center">📈 GitHub Analytics</h3>
 
 <a href="https://github.com/josecontis">
-  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josecontis&theme=react&line_height=30&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josecontis&theme=react&line_height=30&show_icons=true&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josecontis&card_width=370&layout=compact&langs_count=8&theme=react"/>
 </a>
 
-<h3 align="center">✨&nbsp;My Projects</h3>
-  
+---
+
+<h3 align="center">✨ My Projects</h3>
+
 <a href="https://github.com/Josecontis/PersonalWebsite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react" />
 </a>
@@ -79,7 +66,9 @@ https://user-images.githubusercontent.com/48212689/211068702-433da6d3-a5bd-4737-
 <a href="https://github.com/Josecontis/House-Price-Prediction">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=House-Price-Prediction&theme=react" />
 </a>
-<br></br>
+
+<br/><br/>
+
 <a href="https://github.com/Josecontis/opinion_target_extraction">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=opinion_target_extraction&theme=react" />
 </a>
@@ -87,7 +76,9 @@ https://user-images.githubusercontent.com/48212689/211068702-433da6d3-a5bd-4737-
 <a href="https://github.com/Josecontis/Quality-Threshold-Algoritm">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=Quality-Threshold-Algoritm&theme=react" />
 </a>
-<br></br>
+
+<br/><br/>
+
 <a href="https://github.com/Josecontis/e-commerce-app">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react" />
 </a>
@@ -98,27 +89,18 @@ https://user-images.githubusercontent.com/48212689/211068702-433da6d3-a5bd-4737-
 
 ---
 
-<h3 align="center">🤝&nbsp;Connect with Me</h3>
+<h3 align="center">🤝 Connect with Me</h3>
+
 <p align="center">
-<br>
-<a href="https://www.facebook.com/giuseppe.conticchio.5"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/giuseppe.conticchio/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/giuseppe-conticchio-01a414159/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:peppeco98@gmail.com?subject=Ciao%20Jose"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://github.com/Josecontis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
-<a href="https://personalwebsite5.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://www.facebook.com/giuseppe.conticchio.5"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/giuseppe.conticchio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/giuseppe-conticchio-01a414159/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:peppeco98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Josecontis"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://personalwebsite5.netlify.app/"><img src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://personalwebsite5.netlify.app/" /></a>
 </p>
 
 ---
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Josecontis?tab=repositories)!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-
-
-I approach everything I do with dedication and integrity, enjoy leading teams, support others in reaching their goals, and continuously seek innovative ways to improve people’s lives.
-<br><br>
-  <br><br><br><br><br><br>
-  · <a href="https://drive.google.com/file/d/1lqyWowOpRn-TKHkrHK-em-x2MhJRQaHz/view?usp=sharing">Resume</a> · 
-<br>
-Last Edited on: 29/09/2025
