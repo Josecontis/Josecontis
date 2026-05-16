@@ -6,7 +6,7 @@
 
 <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="100px" />
 
-<h3 id="hello-there-im-jose">Hello there, I'm Jose</h3>
+<h3>Hello there, I'm Jose</h3>
 <h5>I'm a Software Developer and Full‑Stack Engineer!</h5>
 
 ---
@@ -21,7 +21,7 @@ I enjoy building reliable applications, improving existing systems, and learning
 <br/>
 
 * 💻 Full‑stack & backend developer (Spring Boot, React, Flutter)
-* 📱 Experience in mobile development with Flutter/Dart
+* 📱 Mobile development with Flutter/Dart
 * 🧠 Interested in IoT, scalable systems, and clean architecture
 * 🎓 BSc in Computer Science (2021)
 * 🌱 Always learning and improving
@@ -59,32 +59,22 @@ I enjoy building reliable applications, improving existing systems, and learning
 
 <h3 align="center">✨ My Projects</h3>
 
+<a href="https://github.com/Josecontis/ilbelvedere">
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=ilbelvedere&theme=react" />
+</a>
+
 <a href="https://github.com/Josecontis/PersonalWebsite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react" />
-</a>
-
-<a href="https://github.com/Josecontis/House-Price-Prediction">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=House-Price-Prediction&theme=react" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Josecontis/opinion_target_extraction">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=opinion_target_extraction&theme=react" />
-</a>
-
-<a href="https://github.com/Josecontis/Quality-Threshold-Algoritm">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=Quality-Threshold-Algoritm&theme=react" />
+  <img align="right" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Josecontis/e-commerce-app">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react" />
+ <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react" />
 </a>
 
 <a href="https://github.com/Josecontis/Data-Structures">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=Data-Structures&theme=react" />
+ <img align="right" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=Data-Structures&theme=react" />
 </a>
 
 ---
@@ -102,5 +92,13 @@ I enjoy building reliable applications, improving existing systems, and learning
 
 ---
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Josecontis?tab=repositories)!
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
+I approach everything I do with dedication and integrity, enjoy supporting others, and continuously seek innovative ways to improve people’s lives.
+
+<br><br>
+
+· <a href="https://drive.google.com/file/d/1lqyWowOpRn-TKHkrHK-em-x2MhJRQaHz/view?usp=sharing">Resume</a> ·
+
+<br>
+Last Edited on: 29/09/2025
