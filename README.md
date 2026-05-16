@@ -59,23 +59,40 @@ I enjoy building reliable applications, improving existing systems, and learning
 
 <h3 align="center">✨ My Projects</h3>
 
-<a href="https://github.com/Josecontis/ilbelvedere">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=ilbelvedere&theme=react" />
-</a>
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-<a href="https://github.com/Josecontis/PersonalWebsite">
-  <img align="right" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react" />
-</a>
+<p align="left">
 
-<br/><br/>
+  <!-- ilbelvedere -->
+  <a href="https://github.com/Josecontis/ilbelvedere">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=ilbelvedere&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="ilbelvedere">
+  </a>
 
-<a href="https://github.com/Josecontis/e-commerce-app">
- <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react" />
-</a>
+  <!-- PersonalWebsite -->
+  <a href="https://github.com/Josecontis/PersonalWebsite">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="PersonalWebsite">
+  </a>
 
-<a href="https://github.com/Josecontis/Data-Structures">
- <img align="right" src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Josecontis&repo=Data-Structures&theme=react" />
-</a>
+  <!-- e-commerce-app -->
+  <a href="https://github.com/Josecontis/e-commerce-app">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="e-commerce-app">
+  </a>
+
+  <!-- Data-Structures -->
+  <a href="https://github.com/Josecontis/Data-Structures">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=Data-Structures&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="Data-Structures">
+  </a>
+
+</p>
 
 ---
 
