@@ -63,18 +63,34 @@ I enjoy building reliable applications, improving existing systems, and learning
 <h3 align="center">📈 GitHub Analytics</h3>
 
 <a href="https://github.com/josecontis">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josecontis&theme=react&line_height=30&show_icons=true&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josecontis&card_width=370&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josecontis&theme=react&line_height=30&show_icons=true&include_all_commits=true&count_private=true"/>
 </a>
 
 ---
 
 <h3 align="center">✨ My Projects</h3>
+<p align="center">
+  <!-- currency_converter -->
+  <a href="https://github.com/Josecontis/currency_converter">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=currency_converter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="currency_converter">
+  </a>
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<!-- arredareambienti_website -->
+<a href="https://github.com/Josecontis/arredareambienti_website">
+  <img width="278"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=arredareambienti_website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+    alt="arredareambienti_website">
+</a>
 
-<p align="left">
+  <!-- charging_stations_map -->
+  <a href="https://github.com/Josecontis/charging_stations_map">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=charging_stations_map&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="charging_stations_map">
+  </a>
 
   <!-- ilbelvedere -->
   <a href="https://github.com/Josecontis/ilbelvedere">
@@ -83,18 +99,18 @@ I enjoy building reliable applications, improving existing systems, and learning
       alt="ilbelvedere">
   </a>
 
-  <!-- PersonalWebsite -->
-  <a href="https://github.com/Josecontis/PersonalWebsite">
+   <!-- Quality-Threshold-Algoritm -->
+  <a href="https://github.com/Josecontis/Quality-Threshold-Algoritm">
     <img width="278"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=PersonalWebsite&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-      alt="PersonalWebsite">
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=Quality-Threshold-Algoritm&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="Quality-Threshold-Algoritm">
   </a>
 
-  <!-- e-commerce-app -->
-  <a href="https://github.com/Josecontis/e-commerce-app">
+  <!-- House-Price-Prediction -->
+  <a href="https://github.com/Josecontis/House-Price-Prediction">
     <img width="278"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=e-commerce-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-      alt="e-commerce-app">
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=House-Price-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="House-Price-Prediction">
   </a>
 
   <!-- Data-Structures -->
@@ -104,7 +120,14 @@ I enjoy building reliable applications, improving existing systems, and learning
       alt="Data-Structures">
   </a>
 
+  <!-- csv_manipulation -->
+  <a href="https://github.com/Josecontis/csv_manipulation">
+    <img width="278"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Josecontis&repo=csv_manipulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      alt="csv_manipulation">
+  </a>
 </p>
+
 
 ---
 
