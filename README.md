@@ -6,8 +6,8 @@
 
 <img src="https://github.com/josecontis/josecontis/blob/main/wave.gif" width="100px" />
 
-<h3>Hello there, I'm Jose</h3>
-<h5>I'm a Software Developer and Full‑Stack Engineer!</h5>
+<h3>Hello there, I'm Giuseppe Conticchio (Jose)</h3>
+<h5>I'm a Software Developer and Full‑Stack Engineer from Gravina in Puglia (Bari), Italy!</h5>
 
 ---
 
@@ -16,7 +16,8 @@
 <h3 align="center">📝 About me</h3>
 
 I’m a Software Developer with experience in **backend, full‑stack and mobile development**, working on **IoT and Fleet Management platforms**.  
-I enjoy building reliable applications, improving existing systems, and learning new technologies.
+I enjoy building reliable applications, improving existing systems, and learning new technologies.  
+More about me, my projects and my CV on my portfolio: [personalwebsite5.netlify.app](https://personalwebsite5.netlify.app/).
 
 <br/>
 
@@ -152,4 +153,4 @@ I approach everything I do with dedication and integrity, enjoy supporting other
 
 · <a href="https://drive.google.com/file/d/1lqyWowOpRn-TKHkrHK-em-x2MhJRQaHz/view?usp=sharing">Resume</a> ·
 
-Last Edited on: 16/05/2026
+Last Edited on: 10/11/2026
